@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushsharma8279" alt="piyushsharma8279" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.licdn.com/dms/image/v2/D4E03AQGvpWy39B0Tmw/profile-displayphoto-scale_200_200/B4EZqI.h7MHoAY-/0/1763234686807?e=1771459200&v=beta&t=A7-KJV5DK3byQMonbLjt8MLHbp2t2O4lDACFjgI9P10" alt="piyushsharma8279" /></a> </p>
 
 - 🔭 I’m currently working on **Healthcare Management Platform**
 
